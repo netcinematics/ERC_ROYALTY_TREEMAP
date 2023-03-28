@@ -1,0 +1,195 @@
+Category,Level1,Level2,Level3,Level4,DataOne,DataTwo,DataThree,DataFour,DataFive,DataSix
+,ERC-4910,Royalty Bearing Token (RBT),mint,,176,0,0,0,web3.js.
+,ERC-4910,Royalty Bearing Token (RBT),transfer,,176,0,0,0,web3.js.
+,ERC-4910,Royalty Bearing Token (RBT),list,,176,0,0,0,web3.js.
+,ERC-4910,Royalty Bearing Token (RBT),executePayment,,176,0,0,0,web3.js.
+,ERC-4910,Royalty Bearing Token (RBT),checkPayment,,176,0,0,0,web3.js.
+,ERC-4910,Royalty Bearing Token (RBT),reversePayment,,176,0,0,0,web3.js.
+,ERC-4910,Royalty Bearing Token (RBT),royaltyPayout,,176,0,0,0,web3.js.
+,ERC-4910,Payment Module,addListNFT,,176,0,0,0,Transaction Design
+,ERC-4910,Payment Module,getListNFT,,176,0,0,0,Transaction Design
+,ERC-4910,Payment Module,removeListNFT,,176,0,0,0,Transaction Design
+,ERC-4910,Payment Module,addRegisterPayment,,176,0,0,0,Transaction Design
+,ERC-4910,Payment Module,getRegisterPayment,,176,0,0,0,Transaction Design
+,ERC-4910,Payment Module,removeRegisterPayment,,176,0,0,0,Transaction Design
+,ERC-4910,Payment Module,checkRegisterPayment,,176,0,0,0,Transaction Design
+,ERC-4910,Royalty Module,anscestry,,176,0,0,0,subscribe by Architecture address
+,ERC-4910,Royalty Module,RoyaltyDistributed,,176,0,0,0,subscribe by Architecture address
+,ERC-4910,Royalty Module,createRoyaltyAccount,,176,0,0,0,subscribe by Architecture address
+,ERC-4910,Royalty Module,deleteRoyaltyAccount,,176,0,0,0,subscribe by Architecture address
+,ERC-4910,Royalty Module,getRoyaltyAccount,,176,0,0,0,subscribe by Architecture address
+,ERC-4910,Royalty Module,checkBalanceForPayout,,176,0,0,0,subscribe by Architecture address
+,ERC-4910,Royalty Module,distributePayment,,176,0,0,0,subscribe by Architecture address
+,721-EXTEND,Architecture,PoS,Piece of Steak,176,0,0,0,0,0
+,721-EXTEND,Architecture,L2 on ETH,,176,0,0,0,0,0
+,721-EXTEND,Architecture,sidechain networks,,176,0,0,0,0,0
+,721-EXTEND,Architecture,commit chains,parallel ETH,176,0,0,0,0,0
+,721-EXTEND,Architecture,faster/cheaper,,176,0,0,0,0,0
+,721-EXTEND,Architecture,plasma security,,176,0,0,0,0,0
+,721-EXTEND,Architecture,Polygon SDK,Dapps,176,0,0,0,0,0
+,721-EXTEND,Architecture,Polygon SDK,concensus mechanism,176,0,0,0,0,0
+,721-EXTEND,Architecture,Polygon SDK,ETH Bridge,176,0,0,0,0,0
+,721-EXTEND,PolygonId,verification,identity,176,0,0,0,0,0
+,721-EXTEND,PolygonId,verification,credentials,176,0,0,0,0,0
+,721-EXTEND,PolygonId,verification,entity,176,0,0,0,0,0
+,721-EXTEND,PolygonId,principles,freedom of expression,176,0,0,0,0,0
+,721-EXTEND,PolygonId,principles,privacy by default,176,0,0,0,0,0
+,721-EXTEND,PolygonId,Triangle of Trust,Issuer,176,0,0,0,0,0
+,721-EXTEND,PolygonId,Triangle of Trust,Holder,176,0,0,0,0,0
+,721-EXTEND,PolygonId,Triangle of Trust,Validator,176,0,0,0,0,0
+,721-EXTEND,PolygonId,SSI,Self Sovriegn Identity,176,0,0,0,0,0
+,721-EXTEND,PolygonId,SSI,Federated Identity,176,0,0,0,0,0
+,721-EXTEND,Zero-Knowledge (ZK),isolated proof,,176,0,0,0,0,0
+,721-EXTEND,Zero-Knowledge (ZK),partial disclosure,,176,0,0,0,0,0
+,721-EXTEND,Zero-Knowledge (ZK),zkRollup,,176,0,0,0,0,0
+,721-EXTEND,Zero-Knowledge (ZK),zkEVM,,176,0,0,0,0,0
+,721-EXTEND,L2/L3,Layers of transaction,,176,0,0,0,0,0
+,721-EXTEND,L2/L3,Layers of execution,,176,0,0,0,0,0
+,721-EXTEND,L2/L3,Layers of validation,,176,0,0,0,0,0
+,721-EXTEND,L2/L3,L2,scalability,176,0,0,0,0,0
+,721-EXTEND,L2/L3,L2,zkRollups,176,0,0,0,0,0
+,721-EXTEND,L2/L3,L2,Optimistic Rollups,176,0,0,0,0,0
+,721-EXTEND,L2/L3,L3,interoperability,176,0,0,0,0,0
+,721-EXTEND,L2/L3,L3,crosschain,176,0,0,0,0,0
+,721-EXTEND,CHAINS,ETH Mainnet,,176,0,0,0,0,0
+,721-EXTEND,CHAINS,721-EXTEND PoS,,176,0,0,0,0,0
+,721-EXTEND,CHAINS,721-EXTEND SDK,,176,0,0,0,0,0
+,721-EXTEND,CHAINS,Optimistic Rollups,assume valid,176,0,0,0,0,0
+,721-EXTEND,CHAINS,zkRollups,preserve privacy,176,0,0,0,0,0
+,721-EXTEND,BRIDGES,PoS Bridge, to ETH mainnet,176,0,0,0,0,0
+,721-EXTEND,BRIDGES,Plasma Bridge,security,176,0,0,0,0,0
+,721-EXTEND,BRIDGES,Plasma Bridge,older,176,0,0,0,0,0
+,721-EXTEND,BRIDGES,Hop Protocol Bridge,crosschain bridge,176,0,0,0,0,0
+,721-EXTEND,BRIDGES,xDai Bridge,another L2,176,0,0,0,0,0
+,721-EXTEND,zkEVM,zero knowledge ethereum virtual machine,,176,0,0,0,0,0
+,721-EXTEND,zkEVM,executed offchain,,176,0,0,0,0,0
+,721-EXTEND,zkEVM,zkProof verified mainnet,,176,0,0,0,0,0
+,721-EXTEND,zkEVM,faster cheaper,,176,0,0,0,0,0
+,721-EXTEND,zkEVM,privacy preserving,,176,0,0,0,0,0
+,721-EXTEND,zkEVM,no disclosure,,176,0,0,0,0,0
+,721-EXTEND,zkEVM,innovation,zkp validate transact,176,0,0,0,0,0
+,721-EXTEND,zkEVM,innovation,new usecase dapps,176,0,0,0,0,0
+,721-EXTEND,Trilemma Dilemma?,Is Trilemma solved?,,176,0,0,0,0,0
+,721-EXTEND,Trilemma Dilemma?,Averted by sidechains?,,176,0,0,0,0,0
+,721-EXTEND,Trilemma Dilemma?,How do we know?,,176,0,0,0,0,0
+,721-EXTEND,Trilemma Dilemma?,What do you think?,,176,0,0,0,0,0
+,1155_ADD,Defi,yield farm,,676,0,0,0,0,0
+,1155_ADD,Defi,staking,,676,0,0,0,0,0
+,1155_ADD,Defi,liquidity,,676,0,0,0,0,0
+,1155_ADD,Defi,escrow,,676,0,0,0,Safely hold money for a future date.
+,1155_ADD,Defi,Insurance,,676,0,0,0,0,0
+,1155_ADD,Defi,Utility Farm,,676,0,0,0,0,0
+,1155_ADD,Defi,TVL,,676,0,0,0,0,0
+,1155_ADD,Defi,Liquidity Pools,,676,0,0,0,0,0
+,1155_ADD,Defi,Stable Coint,,676,0,0,0,0,0
+,1155_ADD,Gamefi,P2E,,676,0,0,0,0,0
+,1155_ADD,Gamefi,Axie Infinity,,676,0,0,0,0,0
+,1155_ADD,Gamefi,CryptoKitties,,676,0,0,0,0,0
+,1155_ADD,Socialfi,Mastodon,,676,0,0,0,0,0
+,1155_ADD,Socialfi,Mirror.xyz,,676,0,0,0,0,0
+,1155_ADD,Socialfi,Readl,,676,0,0,0,0,0
+,1155_ADD,NFTMusic,Audius,,676,0,0,0,0,0
+,1155_ADD,NFTMusic,Real402,,676,0,0,0,0,0
+,1155_ADD,providers,Alchemy,,676,0,0,0,0,0
+,1155_ADD,providers,Infura,,676,0,0,0,0,0
+,1155_ADD,chains,ETH,,676,0,0,0,0,0
+,1155_ADD,chains,Solana,,676,0,0,0,0,0
+,1155_ADD,marketplaces,OpenSea,,676,0,0,0,0,0
+,1155_ADD,marketplaces,Rarible,,676,0,0,0,0,0
+,1155_ADD,explorers,Mirror.xyz.com,,676,0,0,0,0,0
+,1155_ADD,explorers,Etherscan,,676,0,0,0,0,0
+,1155_ADD,explorers,Polygonscan,,676,0,0,0,0,0
+,Mirror.xyz,SmartContracts,ERC20,,267,0,0,0,0,0
+,Mirror.xyz,SmartContracts,ERC721,,267,0,0,0,0,0
+,Mirror.xyz,SmartContracts,ERC1155,,267,0,0,0,0,0
+,Mirror.xyz,SmartContracts,ERC2981,,267,0,0,0,0,0
+,Mirror.xyz,EVM,Solidity,,267,0,0,0,0,0
+,Mirror.xyz,EVM,Vyper,,267,0,0,0,0,0
+,Mirror.xyz,EVM,Hardfork,,267,0,0,0,0,0
+,Mirror.xyz,EVM,Softfork,,267,0,0,0,0,0
+,Mirror.xyz,EVM,SideChain,,267,0,0,0,0,0
+,Mirror.xyz,EVM,BeaconChain,,267,0,0,0,0,0
+,Mirror.xyz,L2,Optimism,,267,0,0,0,0,0
+,Mirror.xyz,L2,Arbitrum,,267,0,0,0,0,0
+,Mirror.xyz,L2,Polygon,,267,0,0,0,0,0
+,Mirror.xyz,dApps,Uniswap,,267,0,0,0,0,0
+,Mirror.xyz,dApps,Aave,,267,0,0,0,0,0
+,Mirror.xyz,dApps,Compound,,267,0,0,0,0,0
+,Mirror.xyz,NFTs,CryptoPunks,,267,0,0,0,0,0
+,Mirror.xyz,NFTs,BAYC,,267,0,0,0,0,0
+,Mirror.xyz,GameFi,CryptoKitties,,267,0,0,0,0,0
+,Mirror.xyz,GameFi,Axie Infinity,,267,0,0,0,0,0
+,Mirror.xyz,DEX,Uniswap,,267,0,0,0,0,0
+,Mirror.xyz,DEX,SushiSwap,,267,0,0,0,0,0
+,Mirror.xyz,DEX,Curve,,267,0,0,0,0,0
+,Mirror.xyz,DEX,Balancer,,267,0,0,0,0,0
+,Mirror.xyz,What?,Transaction,,267,0,0,0,0,0
+,Mirror.xyz,What?,Block,,267,0,0,0,0,0
+,Mirror.xyz,What?,Verification,,267,0,0,0,0,0
+,Mirror.xyz,What?,Hash,,267,0,0,0,0,0
+,Mirror.xyz,What?,Execution,,267,0,0,0,0,0
+,Mirror.xyz,Tools,Waffle,,267,0,0,0,0,0
+,Mirror.xyz,Tools,Truffle,,267,0,0,0,0,0
+,Mirror.xyz,Tools,Hardhat,,267,0,0,0,0,0
+,Mirror.xyz,Tools,Remix,,267,0,0,0,0,0
+,Mirror.xyz,Tools,Foundry,,267,0,0,0,0,0
+,Mirror.xyz,Tools,DuneAnalytics,,267,0,0,0,0,0
+,Mirror.xyz,Security,Mythx,,267,0,0,0,0,0
+,Mirror.xyz,Security,Slither,,267,0,0,0,0,0
+,Mirror.xyz,Security,swcregistry.io,,267,0,0,0,0,0
+,Mirror.xyz,Security,Monitors,,267,0,0,0,0,0
+,Mirror.xyz,Security,Defender,,267,0,0,0,0,0
+,Mirror.xyz,Security,Tenderly,,267,0,0,0,0,0
+,Mirror.xyz,Storage,IPFS,,267,0,0,0,0,0
+,Mirror.xyz,Storage,Pinata,,267,0,0,0,0,0
+,Mirror.xyz,Storage,NFTStorage,,267,0,0,0,0,0
+,Mirror.xyz,Storage,NFTUp,,267,0,0,0,0,0
+,Mirror.xyz,Storage,FileCoin,,267,0,0,0,0,0
+,Zora,Unstoppable Marketplaces,,,267,0,0,0,0,0
+,ERC-2981,Triangle of Trust,Issuer,,267,0,0,0,0,0
+,ERC-2981,Triangle of Trust,Holder,,267,0,0,0,0,0
+,ERC-2981,Triangle of Trust,Verifier,,267,0,0,0,0,0
+,ERC-2981,Trilemma,decentralized,,267,0,0,0,0,0
+,ERC-2981,Trilemma,scalable,,267,0,0,0,0,0
+,ERC-2981,Trilemma,secure,,267,0,0,0,0,0
+,ERC-2981,Snarks,,,267,0,0,0,0,0
+,ERC-2981,Plonks,,,267,0,0,0,0,0
+,ERC-2981,Multi-Sig-Architecture,Gnosis Safe,,267,0,0,0,0,0
+,ERC-2981,Upgradable,Diamonds,,267,0,0,0,0,0
+,ERC-2981,Upgradable,UUPS,,267,0,0,0,0,0
+,ERC-2981,IPFS,CID,,267,0,0,0,0,0
+,ERC-2981,IPFS,Pinning,,267,0,0,0,0,0
+,ERC-2981,Identity,ZKP,,267,0,0,0,0,0
+,ERC-2981,Identity,SBT,,267,0,0,0,0,0
+,ERC-2981,Identity,SSI,,267,0,0,0,0,0
+,ERC-2981,Identity,Federated,,267,0,0,0,0,0
+,ERC-2981,PoK,,,267,0,0,0,0,0
+,ERC-2981,PoH,,,267,0,0,0,0,0
+,ERC-2981,Trustlessness,,,267,0,0,0,0,0
+,ERC-2981,Double Spend Problem,,,267,0,0,0,0,0
+,ERC-2981,Self-Custody,,,267,0,0,0,0,0
+,ERC-2981,Liveness,,,267,0,0,0,0,0
+,ERC-2981,ABI Bytecode,,,267,0,0,0,0,0
+,ERC-2981,Injected Provider,,,267,0,0,0,0,0
+,ERC-2981,NonMutable,,,267,0,0,0,0,0
+,ERC-2981,Transparency,,,267,0,0,0,0,0
+,EIP-6260,Tokens,Access,,467,0,0,0,0,0
+,EIP-6260,Tokens,POAP,,467,0,0,0,0,0
+,EIP-6260,Tokens,SocialGraph,,467,0,0,0,0,0
+,EIP-6260,Tokens,Gating,,467,0,0,0,0,0
+,EIP-6260,Tokens,Tokenization,,467,0,0,0,0,0
+,EIP-6260,Public Good,Crowdfund,Shibuya,467,0,0,0,0,0
+,EIP-6260,Public Good,Impact Project,,467,0,0,0,0,0
+,EIP-6260,Public Good,ReGenerative,,467,0,0,0,0,0
+,EIP-6260,Public Good,IBIS,,467,0,0,0,0,0
+,EIP-6260,DAO,Governance,,467,0,0,0,0,0
+,EIP-6260,Security,Scams,,467,0,0,0,0,0
+,EIP-6260,Security,Rug pulls,,467,0,0,0,0,0
+,EIP-6260,Security,Front Running,,467,0,0,0,0,0
+,EIP-6260,Security,Rate Limiting,,467,0,0,0,0,0
+,EIP-6260,Security,Bloom Filter,,467,0,0,0,0,0
+,EIP-6260,Security,Griefing,,467,0,0,0,0,0
+,EIP-6260,Security,Force-Feeding,,467,0,0,0,0,0
+,EIP-6260,COLLABS,BLOCKCHAIN changes how we interact?,,467,0,0,0,0,0
+,EIP-6260,COLLABS,hackathons,,467,0,0,0,0,0
+,EIP-6260,COLLABS,social good,,467,0,0,0,0,0
