@@ -1,4 +1,36 @@
 Category,Level1,Level2,Level3,Level4,DataOne,DataTwo,DataThree,DataFour,DataFive,DataSix
+,OVERVIEW,ETH Royalties - unresolved:,,,176,0,0,0,web3.js.
+,OVERVIEW,WHO WILL SOLVE a tricky puzzle for...,,,176,0,0,0,web3.js.
+,OVERVIEW,1) OFF-CHAIN royalty OR,,,176,0,0,0,web3.js.
+,OVERVIEW,2) ON-CHAIN infrastructure?,,,176,0,0,0,web3.js.
+,OVERVIEW,Questions, What happened?, POST-MORTEM-2981 (below):,176,0,0,0,web3.js.
+,OVERVIEW,Questions, What happened?, Review of OFF-CHAIN-ROYALTY,176,0,0,0,web3.js.
+,OVERVIEW,Questions, What happened?, For a Retrospective ANSWER that reveals:,176,0,0,0,web3.js.
+,OVERVIEW,Questions, What happened?, Surprise! History repeats itself...and ,176,0,0,0,web3.js.
+,OVERVIEW,Questions, What happened?, Creators still not paid.,176,0,0,0,web3.js.
+,OVERVIEW,Questions, What is next?, Is it ON-CHAIN-Royalty?,176,0,0,0,web3.js.
+,OVERVIEW,Questions, What is next?, What is Current-State of ETH-ROYALTIES?,176,0,0,0,web3.js.
+,OVERVIEW,Questions, What is next?, And Status-Review (below),176,0,0,0,web3.js.
+,ERC-2981,POST-MORTEM:,,,267,0,0,0,0,0
+,ERC-2981,'Royalty Standard','universal' - one size fits all,,267,0,0,0,0,0
+,ERC-2981,'Royalty Standard','optional royalties',,267,0,0,0,0,0
+,ERC-2981,'Royalty Standard','marketplace middleman',,267,0,0,0,0,0
+,ERC-2981,ARCHITECTURE,'royalty signalling',,267,0,0,0,0,0
+,ERC-2981,ARCHITECTURE,'royalty registries',,267,0,0,0,0,0
+,ERC-2981,ARCHITECTURE,marketplace whitelisting/blacklisting,,267,0,0,0,0,0
+,ERC-2981,'OFF-CHAIN Royalties','Marketplace Middleman',,267,0,0,0,0,0
+,ERC-2981,'OFF-CHAIN Royalties',Sale on Marketplace Server (centralized),,267,0,0,0,0,0
+,ERC-2981,'OFF-CHAIN Royalties',Sends Royalty Money to Creator (or not),,267,0,0,0,0,0
+,ERC-2981,'OFF-CHAIN Royalties','Altruistic' Incentive to pay creators (or not),,267,0,0,0,0,0
+,ERC-2981,'OFF-CHAIN Royalties',No penalty to not choose Altruism,,267,0,0,0,0,0
+,ERC-2981,'OFF-CHAIN Royalties',What's not to love for a Marketplace?,,267,0,0,0,0,0
+,ERC-2981,PROBLEMS,1) 'marketplace top-out point:',,267,0,0,0,0,0
+,ERC-2981,PROBLEMS,- successful marketplace no longer needs creators,,267,0,0,0,0,0
+,ERC-2981,PROBLEMS,2) 'incentive inversion point:',,267,0,0,0,0,0
+,ERC-2981,PROBLEMS,- incentive shifts from creators ,,267,0,0,0,0,0
+,ERC-2981,PROBLEMS,to marketshare and venture capital ,,267,0,0,0,0,0
+,ERC-2981,PROBLEMS,and high-frequency-trading. And... ,,267,0,0,0,0,0
+,ERC-2981,PROBLEMS,Creators don't get paid.,,267,0,0,0,0,0
 ,ERC-4910,Royalty Bearing Token (RBT),mint,,176,0,0,0,web3.js.
 ,ERC-4910,Royalty Bearing Token (RBT),transfer,,176,0,0,0,web3.js.
 ,ERC-4910,Royalty Bearing Token (RBT),list,,176,0,0,0,web3.js.
@@ -99,97 +131,4 @@ Category,Level1,Level2,Level3,Level4,DataOne,DataTwo,DataThree,DataFour,DataFive
 ,1155_ADD,explorers,Mirror.xyz.com,,676,0,0,0,0,0
 ,1155_ADD,explorers,Etherscan,,676,0,0,0,0,0
 ,1155_ADD,explorers,Polygonscan,,676,0,0,0,0,0
-,Mirror.xyz,SmartContracts,ERC20,,267,0,0,0,0,0
-,Mirror.xyz,SmartContracts,ERC721,,267,0,0,0,0,0
-,Mirror.xyz,SmartContracts,ERC1155,,267,0,0,0,0,0
-,Mirror.xyz,SmartContracts,ERC2981,,267,0,0,0,0,0
-,Mirror.xyz,EVM,Solidity,,267,0,0,0,0,0
-,Mirror.xyz,EVM,Vyper,,267,0,0,0,0,0
-,Mirror.xyz,EVM,Hardfork,,267,0,0,0,0,0
-,Mirror.xyz,EVM,Softfork,,267,0,0,0,0,0
-,Mirror.xyz,EVM,SideChain,,267,0,0,0,0,0
-,Mirror.xyz,EVM,BeaconChain,,267,0,0,0,0,0
-,Mirror.xyz,L2,Optimism,,267,0,0,0,0,0
-,Mirror.xyz,L2,Arbitrum,,267,0,0,0,0,0
-,Mirror.xyz,L2,Polygon,,267,0,0,0,0,0
-,Mirror.xyz,dApps,Uniswap,,267,0,0,0,0,0
-,Mirror.xyz,dApps,Aave,,267,0,0,0,0,0
-,Mirror.xyz,dApps,Compound,,267,0,0,0,0,0
-,Mirror.xyz,NFTs,CryptoPunks,,267,0,0,0,0,0
-,Mirror.xyz,NFTs,BAYC,,267,0,0,0,0,0
-,Mirror.xyz,GameFi,CryptoKitties,,267,0,0,0,0,0
-,Mirror.xyz,GameFi,Axie Infinity,,267,0,0,0,0,0
-,Mirror.xyz,DEX,Uniswap,,267,0,0,0,0,0
-,Mirror.xyz,DEX,SushiSwap,,267,0,0,0,0,0
-,Mirror.xyz,DEX,Curve,,267,0,0,0,0,0
-,Mirror.xyz,DEX,Balancer,,267,0,0,0,0,0
-,Mirror.xyz,What?,Transaction,,267,0,0,0,0,0
-,Mirror.xyz,What?,Block,,267,0,0,0,0,0
-,Mirror.xyz,What?,Verification,,267,0,0,0,0,0
-,Mirror.xyz,What?,Hash,,267,0,0,0,0,0
-,Mirror.xyz,What?,Execution,,267,0,0,0,0,0
-,Mirror.xyz,Tools,Waffle,,267,0,0,0,0,0
-,Mirror.xyz,Tools,Truffle,,267,0,0,0,0,0
-,Mirror.xyz,Tools,Hardhat,,267,0,0,0,0,0
-,Mirror.xyz,Tools,Remix,,267,0,0,0,0,0
-,Mirror.xyz,Tools,Foundry,,267,0,0,0,0,0
-,Mirror.xyz,Tools,DuneAnalytics,,267,0,0,0,0,0
-,Mirror.xyz,Security,Mythx,,267,0,0,0,0,0
-,Mirror.xyz,Security,Slither,,267,0,0,0,0,0
-,Mirror.xyz,Security,swcregistry.io,,267,0,0,0,0,0
-,Mirror.xyz,Security,Monitors,,267,0,0,0,0,0
-,Mirror.xyz,Security,Defender,,267,0,0,0,0,0
-,Mirror.xyz,Security,Tenderly,,267,0,0,0,0,0
-,Mirror.xyz,Storage,IPFS,,267,0,0,0,0,0
-,Mirror.xyz,Storage,Pinata,,267,0,0,0,0,0
-,Mirror.xyz,Storage,NFTStorage,,267,0,0,0,0,0
-,Mirror.xyz,Storage,NFTUp,,267,0,0,0,0,0
-,Mirror.xyz,Storage,FileCoin,,267,0,0,0,0,0
-,Zora,Unstoppable Marketplaces,,,267,0,0,0,0,0
-,ERC-2981,Triangle of Trust,Issuer,,267,0,0,0,0,0
-,ERC-2981,Triangle of Trust,Holder,,267,0,0,0,0,0
-,ERC-2981,Triangle of Trust,Verifier,,267,0,0,0,0,0
-,ERC-2981,Trilemma,decentralized,,267,0,0,0,0,0
-,ERC-2981,Trilemma,scalable,,267,0,0,0,0,0
-,ERC-2981,Trilemma,secure,,267,0,0,0,0,0
-,ERC-2981,Snarks,,,267,0,0,0,0,0
-,ERC-2981,Plonks,,,267,0,0,0,0,0
-,ERC-2981,Multi-Sig-Architecture,Gnosis Safe,,267,0,0,0,0,0
-,ERC-2981,Upgradable,Diamonds,,267,0,0,0,0,0
-,ERC-2981,Upgradable,UUPS,,267,0,0,0,0,0
-,ERC-2981,IPFS,CID,,267,0,0,0,0,0
-,ERC-2981,IPFS,Pinning,,267,0,0,0,0,0
-,ERC-2981,Identity,ZKP,,267,0,0,0,0,0
-,ERC-2981,Identity,SBT,,267,0,0,0,0,0
-,ERC-2981,Identity,SSI,,267,0,0,0,0,0
-,ERC-2981,Identity,Federated,,267,0,0,0,0,0
-,ERC-2981,PoK,,,267,0,0,0,0,0
-,ERC-2981,PoH,,,267,0,0,0,0,0
-,ERC-2981,Trustlessness,,,267,0,0,0,0,0
-,ERC-2981,Double Spend Problem,,,267,0,0,0,0,0
-,ERC-2981,Self-Custody,,,267,0,0,0,0,0
-,ERC-2981,Liveness,,,267,0,0,0,0,0
-,ERC-2981,ABI Bytecode,,,267,0,0,0,0,0
-,ERC-2981,Injected Provider,,,267,0,0,0,0,0
-,ERC-2981,NonMutable,,,267,0,0,0,0,0
-,ERC-2981,Transparency,,,267,0,0,0,0,0
-,EIP-6260,Tokens,Access,,467,0,0,0,0,0
-,EIP-6260,Tokens,POAP,,467,0,0,0,0,0
-,EIP-6260,Tokens,SocialGraph,,467,0,0,0,0,0
-,EIP-6260,Tokens,Gating,,467,0,0,0,0,0
-,EIP-6260,Tokens,Tokenization,,467,0,0,0,0,0
-,EIP-6260,Public Good,Crowdfund,Shibuya,467,0,0,0,0,0
-,EIP-6260,Public Good,Impact Project,,467,0,0,0,0,0
-,EIP-6260,Public Good,ReGenerative,,467,0,0,0,0,0
-,EIP-6260,Public Good,IBIS,,467,0,0,0,0,0
-,EIP-6260,DAO,Governance,,467,0,0,0,0,0
-,EIP-6260,Security,Scams,,467,0,0,0,0,0
-,EIP-6260,Security,Rug pulls,,467,0,0,0,0,0
-,EIP-6260,Security,Front Running,,467,0,0,0,0,0
-,EIP-6260,Security,Rate Limiting,,467,0,0,0,0,0
-,EIP-6260,Security,Bloom Filter,,467,0,0,0,0,0
-,EIP-6260,Security,Griefing,,467,0,0,0,0,0
-,EIP-6260,Security,Force-Feeding,,467,0,0,0,0,0
-,EIP-6260,COLLABS,BLOCKCHAIN changes how we interact?,,467,0,0,0,0,0
-,EIP-6260,COLLABS,hackathons,,467,0,0,0,0,0
-,EIP-6260,COLLABS,social good,,467,0,0,0,0,0
+,EIP-6260,UNLISTED,721-Buyable,,467,0,0,0,0,0
