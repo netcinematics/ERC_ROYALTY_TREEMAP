@@ -52,83 +52,8 @@ Category,Level1,Level2,Level3,Level4,DataOne,DataTwo,DataThree,DataFour,DataFive
 ,ERC-4910,Royalty Module,getRoyaltyAccount,,176,0,0,0,subscribe by Architecture address
 ,ERC-4910,Royalty Module,checkBalanceForPayout,,176,0,0,0,subscribe by Architecture address
 ,ERC-4910,Royalty Module,distributePayment,,176,0,0,0,subscribe by Architecture address
-,721-EXTEND,Architecture,PoS,Piece of Steak,176,0,0,0,0,0
-,721-EXTEND,Architecture,L2 on ETH,,176,0,0,0,0,0
-,721-EXTEND,Architecture,sidechain networks,,176,0,0,0,0,0
-,721-EXTEND,Architecture,commit chains,parallel ETH,176,0,0,0,0,0
-,721-EXTEND,Architecture,faster/cheaper,,176,0,0,0,0,0
-,721-EXTEND,Architecture,plasma security,,176,0,0,0,0,0
-,721-EXTEND,Architecture,Polygon SDK,Dapps,176,0,0,0,0,0
-,721-EXTEND,Architecture,Polygon SDK,concensus mechanism,176,0,0,0,0,0
-,721-EXTEND,Architecture,Polygon SDK,ETH Bridge,176,0,0,0,0,0
-,721-EXTEND,PolygonId,verification,identity,176,0,0,0,0,0
-,721-EXTEND,PolygonId,verification,credentials,176,0,0,0,0,0
-,721-EXTEND,PolygonId,verification,entity,176,0,0,0,0,0
-,721-EXTEND,PolygonId,principles,freedom of expression,176,0,0,0,0,0
-,721-EXTEND,PolygonId,principles,privacy by default,176,0,0,0,0,0
-,721-EXTEND,PolygonId,Triangle of Trust,Issuer,176,0,0,0,0,0
-,721-EXTEND,PolygonId,Triangle of Trust,Holder,176,0,0,0,0,0
-,721-EXTEND,PolygonId,Triangle of Trust,Validator,176,0,0,0,0,0
-,721-EXTEND,PolygonId,SSI,Self Sovriegn Identity,176,0,0,0,0,0
-,721-EXTEND,PolygonId,SSI,Federated Identity,176,0,0,0,0,0
-,721-EXTEND,Zero-Knowledge (ZK),isolated proof,,176,0,0,0,0,0
-,721-EXTEND,Zero-Knowledge (ZK),partial disclosure,,176,0,0,0,0,0
-,721-EXTEND,Zero-Knowledge (ZK),zkRollup,,176,0,0,0,0,0
-,721-EXTEND,Zero-Knowledge (ZK),zkEVM,,176,0,0,0,0,0
-,721-EXTEND,L2/L3,Layers of transaction,,176,0,0,0,0,0
-,721-EXTEND,L2/L3,Layers of execution,,176,0,0,0,0,0
-,721-EXTEND,L2/L3,Layers of validation,,176,0,0,0,0,0
-,721-EXTEND,L2/L3,L2,scalability,176,0,0,0,0,0
-,721-EXTEND,L2/L3,L2,zkRollups,176,0,0,0,0,0
-,721-EXTEND,L2/L3,L2,Optimistic Rollups,176,0,0,0,0,0
-,721-EXTEND,L2/L3,L3,interoperability,176,0,0,0,0,0
-,721-EXTEND,L2/L3,L3,crosschain,176,0,0,0,0,0
-,721-EXTEND,CHAINS,ETH Mainnet,,176,0,0,0,0,0
-,721-EXTEND,CHAINS,721-EXTEND PoS,,176,0,0,0,0,0
-,721-EXTEND,CHAINS,721-EXTEND SDK,,176,0,0,0,0,0
-,721-EXTEND,CHAINS,Optimistic Rollups,assume valid,176,0,0,0,0,0
-,721-EXTEND,CHAINS,zkRollups,preserve privacy,176,0,0,0,0,0
-,721-EXTEND,BRIDGES,PoS Bridge, to ETH mainnet,176,0,0,0,0,0
-,721-EXTEND,BRIDGES,Plasma Bridge,security,176,0,0,0,0,0
-,721-EXTEND,BRIDGES,Plasma Bridge,older,176,0,0,0,0,0
-,721-EXTEND,BRIDGES,Hop Protocol Bridge,crosschain bridge,176,0,0,0,0,0
-,721-EXTEND,BRIDGES,xDai Bridge,another L2,176,0,0,0,0,0
-,721-EXTEND,zkEVM,zero knowledge ethereum virtual machine,,176,0,0,0,0,0
-,721-EXTEND,zkEVM,executed offchain,,176,0,0,0,0,0
-,721-EXTEND,zkEVM,zkProof verified mainnet,,176,0,0,0,0,0
-,721-EXTEND,zkEVM,faster cheaper,,176,0,0,0,0,0
-,721-EXTEND,zkEVM,privacy preserving,,176,0,0,0,0,0
-,721-EXTEND,zkEVM,no disclosure,,176,0,0,0,0,0
-,721-EXTEND,zkEVM,innovation,zkp validate transact,176,0,0,0,0,0
-,721-EXTEND,zkEVM,innovation,new usecase dapps,176,0,0,0,0,0
-,721-EXTEND,Trilemma Dilemma?,Is Trilemma solved?,,176,0,0,0,0,0
-,721-EXTEND,Trilemma Dilemma?,Averted by sidechains?,,176,0,0,0,0,0
-,721-EXTEND,Trilemma Dilemma?,How do we know?,,176,0,0,0,0,0
-,721-EXTEND,Trilemma Dilemma?,What do you think?,,176,0,0,0,0,0
-,1155_ADD,Defi,yield farm,,676,0,0,0,0,0
-,1155_ADD,Defi,staking,,676,0,0,0,0,0
-,1155_ADD,Defi,liquidity,,676,0,0,0,0,0
-,1155_ADD,Defi,escrow,,676,0,0,0,Safely hold money for a future date.
-,1155_ADD,Defi,Insurance,,676,0,0,0,0,0
-,1155_ADD,Defi,Utility Farm,,676,0,0,0,0,0
-,1155_ADD,Defi,TVL,,676,0,0,0,0,0
-,1155_ADD,Defi,Liquidity Pools,,676,0,0,0,0,0
-,1155_ADD,Defi,Stable Coint,,676,0,0,0,0,0
-,1155_ADD,Gamefi,P2E,,676,0,0,0,0,0
-,1155_ADD,Gamefi,Axie Infinity,,676,0,0,0,0,0
-,1155_ADD,Gamefi,CryptoKitties,,676,0,0,0,0,0
-,1155_ADD,Socialfi,Mastodon,,676,0,0,0,0,0
-,1155_ADD,Socialfi,Mirror.xyz,,676,0,0,0,0,0
-,1155_ADD,Socialfi,Readl,,676,0,0,0,0,0
-,1155_ADD,NFTMusic,Audius,,676,0,0,0,0,0
-,1155_ADD,NFTMusic,Real402,,676,0,0,0,0,0
-,1155_ADD,providers,Alchemy,,676,0,0,0,0,0
-,1155_ADD,providers,Infura,,676,0,0,0,0,0
-,1155_ADD,chains,ETH,,676,0,0,0,0,0
-,1155_ADD,chains,Solana,,676,0,0,0,0,0
-,1155_ADD,marketplaces,OpenSea,,676,0,0,0,0,0
-,1155_ADD,marketplaces,Rarible,,676,0,0,0,0,0
-,1155_ADD,explorers,Mirror.xyz.com,,676,0,0,0,0,0
-,1155_ADD,explorers,Etherscan,,676,0,0,0,0,0
-,1155_ADD,explorers,Polygonscan,,676,0,0,0,0,0
+,721-EXTEND,Architecture?,,,176,0,0,0,0,0
+,721-EXTEND,Infrastructure?,,,176,0,0,0,0,0
+,1155_ADD,Architecture?,,,676,0,0,0,0,0
+,1155_ADD,Infrastructure?,,,676,0,0,0,0,0
 ,EIP-6260,UNLISTED,721-Buyable,,467,0,0,0,0,0
